@@ -47,3 +47,6 @@ https://docs.google.com/document/d/1jC1PEa28r8zm1R7YTRzDysc9KttisR0h5ylcwYgA7ys/
 
 ## Protótipo de Baixa Fidelidade
 https://miro.com/welcomeonboard/Rjg5dGo1TmdITlBhRkd3cXZXNGRPaTRKRVNLN1FNY2ZxWUQwQTYxNEdKQzhxZXBiQ2hOUlNacW9VNlVhVEp0enwzNDU4NzY0NTk1NDY2NDU2NDM1fDI=?share_link_id=654128122371 
+
+## Apresentação do Projeto
+https://www.canva.com/design/DAGUbpIaDvs/KjOCuKTdnaUJqmu_njE8Bg/view?utm_content=DAGUbpIaDvs&utm_campaign=designshare&utm_medium=link&utm_source=editor
