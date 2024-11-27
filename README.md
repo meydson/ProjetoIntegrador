@@ -10,18 +10,12 @@ Projeto Integrador do FAP 2024 - Curso de FrontEnd com React
 
 ## Personas:
 1. Motorista de entregas
-2. Assitente Logístico
 
 ## Projeto:
-1. Portal administrativo para importação/inclusão das entregas do dia para o motorista com as seguintes funcionalidades:
-    1. Tela de login (de acordo com usuário será direcionado ao perfil correto - Adm/Motorista)
-    2. Cadastro de usuários
-    3. Cadastro de entregas
-    4. Importação das entregas em lote
-
-2. Portal operacional para confirmação do status de entrega pelos motoristas (foco em mobile):
+1. Portal operacional para confirmação do status de entrega pelos motoristas (foco em mobile):
     1. Tela de login
-    2. Visualização das entregas do dia com opção de confirmação da entrega
+    2. Tela de Registro de Ocorrências
+    3. Tela de Confirmação de envio das informaçoes
 
 ## Questionamentos
 1. Será necessário o direcionamento da rota e deslocamento para os motoristas ou apenas a função de confirmação de entrega?
